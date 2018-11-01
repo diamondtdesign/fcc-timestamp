@@ -1,5 +1,5 @@
 
-* Find the project on (Glitch)[https://mulberry-trout.glitch.me]
+* Find the project on [Glitch](https://mulberry-trout.glitch.me)
 
 # API Project: Timestamp Microservice for FCC
 
